@@ -1,0 +1,7 @@
+c:\users\avoymas\documents\visual studio 2017\Projects\ProgrammingExercise1\ProgrammingExercise1\bin\Debug\ProgrammingExercise1.exe.config
+c:\users\avoymas\documents\visual studio 2017\Projects\ProgrammingExercise1\ProgrammingExercise1\bin\Debug\ProgrammingExercise1.exe
+c:\users\avoymas\documents\visual studio 2017\Projects\ProgrammingExercise1\ProgrammingExercise1\bin\Debug\ProgrammingExercise1.pdb
+c:\users\avoymas\documents\visual studio 2017\Projects\ProgrammingExercise1\ProgrammingExercise1\obj\Debug\ProgrammingExercise1.csprojAssemblyReference.cache
+c:\users\avoymas\documents\visual studio 2017\Projects\ProgrammingExercise1\ProgrammingExercise1\obj\Debug\ProgrammingExercise1.csproj.CoreCompileInputs.cache
+c:\users\avoymas\documents\visual studio 2017\Projects\ProgrammingExercise1\ProgrammingExercise1\obj\Debug\ProgrammingExercise1.exe
+c:\users\avoymas\documents\visual studio 2017\Projects\ProgrammingExercise1\ProgrammingExercise1\obj\Debug\ProgrammingExercise1.pdb
